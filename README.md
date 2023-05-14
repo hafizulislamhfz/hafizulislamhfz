@@ -29,6 +29,7 @@ The Conference Management System is a web application that provides a comprehens
 ## 🌱 Learning and Interests
 In addition to web development, I have a deep passion for competitive programming. I enjoy solving algorithmic challenges and participating in coding competitions.
 Continuously expanding my skill set, I am eager to explore emerging technologies and frameworks such as React.js and Vue.js. I actively engage in self-learning, participating in online courses and staying updated with the latest industry trends to enhance my abilities.
+
 Apart from coding,I also enjoy going out and exploring the meaningful nature around me.
 
 ## 📫 Say Hello
@@ -39,5 +40,5 @@ Feel free to reach out to me through the following channels:
 - [LinkedIn](https://www.linkedin.com/in/hafizulislamhfz/)
 - Email: [hafizulislamhfz@gmail.com](mailto:hafizulislamhfz@gmail.com)
 
-I'm excited to connect with you and discuss potential collaborations, share insights, or answer any questions you may have.
+I'm excited to connect with you and discuss potential collaborations, share insights, or answer any questions you may have.<br>
 Looking forward to hearing from you!
