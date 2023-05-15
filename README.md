@@ -3,8 +3,9 @@ I'm a passionate full stack developer with expertise in PHP with the popular Lar
 
 ## 🚀 Skills and Technologies
 - PHP (Laravel)
-- HTML5, CSS3
-- Bootstrap, JavaScript, jQuery
+- HTML5
+- CSS3, Bootstrap
+- JavaScript, jQuery
 - MySQL, Database Design
 - Version Control (Git)
 
@@ -22,9 +23,9 @@ Though the projects were not professional in a traditional sense, the collaborat
 ### 🔭 Projects
 
 - [Conference Management System](https://github.com/hafizulislamhfz/Conference-Management-System) - 
-The Conference Management System is a web application that provides a comprehensive platform for managing conferences effectively. It offers a range of features and functionalities to streamline the entire conference management process.
+The Conference Management System is a web application using Laravel that provides a comprehensive platform for managing conferences effectively. It offers a range of features and functionalities to streamline the entire conference management process.
 
-- [Coaching Management](https://github.com/hafizulislamhfz/Coaching-Management) - The Coaching Management web application is designed to simplify and streamline the management of coaching institutes or centers. It provides a user-friendly interface for administrators, coaches, and students to efficiently handle various aspects of coaching operations.
+- [Coaching Management](https://github.com/hafizulislamhfz/Coaching-Management) - The Coaching Management web application using PHP is designed to simplify and streamline the management of coaching institutes or centers. It provides a user-friendly interface for administrators, coaches, and students to efficiently handle various aspects of coaching operations.
 
 ## 🌱 Learning and Interests
 In addition to web development, I have a deep passion for competitive programming. I enjoy solving algorithmic challenges and participating in coding competitions.
@@ -36,7 +37,7 @@ Apart from coding,I also enjoy going out and exploring the meaningful nature aro
 
 Feel free to reach out to me through the following channels:
 
-- [Portfolio Website](https://hafizulislamhfz.github.io/Hafizul-portfolio/)
+- [Portfolio](https://hafizulislamhfz.github.io/Hafizul-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/hafizulislamhfz/)
 - Email: [hafizulislamhfz@gmail.com](mailto:hafizulislamhfz@gmail.com)
 
