@@ -22,6 +22,9 @@ During my journey as a full stack developer, I have gained valuable experience c
 Though the projects were not professional in a traditional sense, the collaborative nature and the practical experience gained while working with a team have significantly contributed to my growth as a developer.
 ### 🔭 Projects
 
+- [File Traveler](https://github.com/hafizulislamhfz/File-Traveler.git) - 
+This is an instant File Sharing Laravel Application.This is a powerful and secure solution for sharing files instantly with anyone, anywhere.This application provides a seamless user experience, allowing users to upload files and generate unique key for recipients to download the files without the need for creating accounts or signing in.
+
 - [Conference Management System](https://github.com/hafizulislamhfz/Conference-Management-System) - 
 The Conference Management System is a web application using Laravel that provides a comprehensive platform for managing conferences effectively. It offers a range of features and functionalities to streamline the entire conference management process.
 
