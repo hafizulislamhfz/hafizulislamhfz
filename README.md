@@ -5,7 +5,7 @@ I'm a passionate full stack developer with expertise in PHP with the popular Lar
 - PHP (Laravel)
 - HTML5
 - CSS3, Bootstrap
-- JavaScript, jQuery
+- JavaScript, jQuery, AJAX
 - MySQL, Database Design
 - Version Control (Git)
 
