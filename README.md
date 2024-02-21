@@ -1,5 +1,7 @@
 # Hi there, I'm Hafizul Islam! 👋
-I'm a passionate full stack developer with expertise in PHP with the popular Laravel framework. I'm driven by a strong desire to create captivating web applications and deliver seamless user experiences.
+I am a full stack web developer, who is responsible for writing functional codes, debugging and system performance tuning, as well as playing a role in the architecture of application's client and server side. I am expertise in developing and maintaining web applications, back-end services, databases, and APIs .
+
+I am not only a kind, happy person, but also possesses a remarkable ability to bring positivity to any environment I enter.
 
 ## 🚀 Skills and Technologies
 - PHP (Laravel)
