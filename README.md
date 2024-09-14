@@ -43,7 +43,7 @@ I'm excited to connect with you and discuss potential collaborations, share insi
 Looking forward to hearing from you!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hafizulislamhfz&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) <br>
-[![Hafizul's github stats](https://github-readme-stats.vercel.app/api?username=hafizulislamhfz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=hafizulislamhfz&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) <be>
+<!--[![Hafizul's github stats](https://github-readme-stats.vercel.app/api?username=hafizulislamhfz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Hafizul's github streak](https://github-readme-streak-stats.herokuapp.com/?user=hafizulislamhfz&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
